@@ -53,6 +53,9 @@ WikiGPT is a project designed to efficiently query a vector store or Wikipedia f
 - "What is an agent?" (Queries the vector store)
 - "Who are Avengers?" (Queries Wikipedia)
 
+## Learning and Template Use
+This project is designed for learning purposes and provides a foundation for building advanced question-answering systems. It can also serve as a template for creating customized query handlers and integrating vector stores with external data sources like Wikipedia.
+
 ## Dependencies
 See `requirements.txt` for the full list of dependencies.
 
